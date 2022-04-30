@@ -1,0 +1,12 @@
+link parar download git (https://git-scm.com/downloads)
+
+o que é git? 
+Git comes with built-in GUI tools (git-gui, gitk), 
+but there are several third-party tools for users 
+looking for a platform-specific experience.
+
+  É um terminal extendida para otimizar o uso do git
+
+
+
+
